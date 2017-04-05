@@ -8,6 +8,7 @@ int main()
  
    printf("Enter two numbers to add\n");
    scanf("%d%d",&a,&b);
+    
  
    c = a + b;
  
